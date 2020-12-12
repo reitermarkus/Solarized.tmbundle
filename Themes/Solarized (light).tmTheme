@@ -810,7 +810,7 @@
 			<key>name</key>
 			<string>Ruby: Keyword Control</string>
 			<key>scope</key>
-			<string>keyword.control.ruby, keyword.control.def.ruby</string>
+			<string>keyword.control.ruby, keyword.control.start-block.ruby, keyword.control.def.ruby</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
