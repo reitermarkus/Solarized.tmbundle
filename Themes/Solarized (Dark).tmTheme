@@ -345,7 +345,7 @@
 			<key>name</key>
 			<string>Quotes</string>
 			<key>scope</key>
-			<string>punctuation.definition.string.begin, punctuation.definition.string.end</string>
+			<string>punctuation.definition.string</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
